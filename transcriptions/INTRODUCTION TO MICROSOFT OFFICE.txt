@@ -1,0 +1,209 @@
+[0.00s --> 8.00s] Nihir
+[8.00s --> 14.00s] Good day, students. I'm Mr. Kevin, your KITA instructor for today.
+[14.00s --> 18.00s] I will be taking only a topic in production to Microsoft Word.
+[18.00s --> 24.00s] But before we proceed, I would like us to look at the objective of the lesson.
+[24.00s --> 32.00s] At the end of the lesson, students should be able to, one, explain what is Microsoft Word.
+[32.00s --> 42.00s] Two, launch Microsoft Word and three, interact with Microsoft Word 2030 interface.
+[42.00s --> 46.00s] Now, let's proceed. What is Microsoft Word?
+[46.00s --> 52.00s] Microsoft Word is a Word processing program that is used to create professional looking documents,
+[52.00s --> 60.00s] such as reports, resumes, letters, memos, and newsletters.
+[60.00s --> 68.00s] It includes many powerful tools that can be used to easily create and edit documents and collaborate with others.
+[68.00s --> 76.00s] With Microsoft Word, you can be able to create and edit, you can be able to store your documents,
+[76.00s --> 81.00s] you can be able to achieve whatever you would like to use your document.
+[81.00s --> 88.00s] Microsoft Word is a powerful tool that you use to create documents.
+[88.00s --> 92.00s] How do we start this Microsoft Word?
+[92.00s --> 100.00s] There are several ways you can start Microsoft Word. One of it is when you have Microsoft Word icon on your desktop background,
+[100.00s --> 106.00s] all you need to do is to double-click on it and it will open.
+[106.00s --> 112.00s] Now, another way you can open your Microsoft Word is, you click on the start button.
+[112.00s --> 121.00s] Select all four runs. Then you select Microsoft Office folder, and then you select Microsoft Word from the menu options.
+[121.00s --> 125.00s] You have the adjust as you can see from our screen.
+[125.00s --> 132.00s] You go to the Microsoft Word Start button. I mean the Windows Start button.
+[132.00s --> 138.00s] From there, you click on all programs you navigate through to where Microsoft Office folder is.
+[138.00s --> 144.00s] There you expand it and you navigate to find where Word 2013 is located.
+[144.00s --> 149.00s] There you click and your Microsoft Office will be launched.
+[149.00s --> 154.00s] There is also another way of launching Microsoft Word.
+[154.00s --> 168.00s] If you are using your keyboard to launch Microsoft Word, all you just need to do is to type Microsoft or you type Word on your search bar.
+[168.00s --> 176.00s] Just as you can see from the screen, once you type Word, Microsoft Office program will be the first to appear on the list.
+[176.00s --> 185.00s] As you can see, it's highlighted with blue. Then you click on it and your Microsoft Word will be launched.
+[185.00s --> 197.00s] Now, this is the interface of Microsoft Word 2013. From our screen here, you can see we have areas I level 1, 2, 3, to 10.
+[197.00s --> 203.00s] Now, one is our title bar. As the name implies, title bar.
+[203.00s --> 209.00s] It displays the title of your document as well as the name of your application.
+[209.00s --> 213.00s] From the screen we have by defaults document 2 and Word.
+[213.00s --> 222.00s] Now, this is trying to say document 2 is the name of our document while we have word as the name of our application.
+[222.00s --> 230.00s] Now, as you are working, immediately you will save your work with any name. That is what you are going to see there with the extension of Word.
+[230.00s --> 234.00s] Meaning that what is the application you are making use of.
+[234.00s --> 240.00s] And any file you are saving with Microsoft Word, you can with the file station dot doc.
+[240.00s --> 243.00s] Meaning document.
+[243.00s --> 248.00s] Now, the area level 2 is called the quick access to bar.
+[248.00s --> 252.00s] Just as the name implies, also quick access to bar.
+[252.00s --> 258.00s] This area is a bar that you customize those commands that you frequently use.
+[258.00s --> 262.00s] You don't need to navigate through to start session for them.
+[262.00s --> 267.00s] And as much as you know, you always use those commands, you customize them there.
+[267.00s --> 270.00s] So that anytime you need to use them, you can easily locate them.
+[270.00s --> 273.00s] And there is a way you can also use them.
+[273.00s --> 277.00s] They drop down to customize and add more of the commands there.
+[277.00s --> 280.00s] But by default, we have the save command.
+[280.00s --> 289.00s] We have the undo command and we have the refresh command and also new command by default in Microsoft Office 2013.
+[289.00s --> 292.00s] This is what we have here from our screen.
+[292.00s --> 297.00s] Now, the area that is level 3 is called the tab.
+[297.00s --> 306.00s] You can see by default, we have 8 tab, including the file menu, which is also called the backstage view.
+[306.00s --> 308.00s] Now, we have the home tab.
+[308.00s --> 310.00s] We have the insert tab.
+[310.00s --> 312.00s] We have design tab, page layout tab.
+[312.00s --> 313.00s] We have refresh tab.
+[313.00s --> 314.00s] We have mailing tab.
+[314.00s --> 317.00s] We have review tab and view tab.
+[317.00s --> 320.00s] All these tabs have their unique commands.
+[320.00s --> 326.00s] As soon as we get to them, you come to see that they have different commands that are attached to them.
+[326.00s --> 328.00s] Now, wait there.
+[328.00s --> 331.00s] You don't just say home or insert.
+[331.00s --> 335.00s] For example, insert, they have other possible ways you can find insert.
+[335.00s --> 337.00s] So when you are telling somebody, go to insert.
+[337.00s --> 340.00s] The person may be confused, may not know where you are talking about.
+[340.00s --> 343.00s] So if you are asking the person to go to insert,
+[343.00s --> 345.00s] we need to be particular about it.
+[345.00s --> 348.00s] Click on insert tab.
+[348.00s --> 352.00s] Now, as we are working on Microsoft Word, you will notice that,
+[352.00s --> 355.00s] as soon as you see that, assign this default tab that we have,
+[355.00s --> 358.00s] you come across other external tabs that are coming.
+[358.00s --> 364.00s] As a result of view, inserting either table or any object,
+[364.00s --> 366.00s] you will see that we have extra tab.
+[366.00s --> 372.00s] Such tab, irrespective of the name, that is appearing there is called the contextual tab.
+[372.00s --> 380.00s] It comes with additional commands that will help you to format your work or your document.
+[383.00s --> 387.00s] Now, the area that is labeled for is called the ribbon.
+[387.00s --> 395.00s] As you can see from the screen here, the ribbon is where the commands of each of these tabs is being displayed.
+[395.00s --> 402.00s] As you navigate through, you will see that all the commands of each of these tabs are being displayed on the ribbon.
+[402.00s --> 407.00s] And if you look closely from our screen, I would like you to look closely from the screen.
+[407.00s --> 411.00s] You will see that the commands are in groups.
+[411.00s --> 416.00s] First, from our home tab, we have the click board as a command.
+[416.00s --> 420.00s] We also have found as a group, brother.
+[420.00s --> 422.00s] We also have paragraph as a group.
+[422.00s --> 424.00s] Style is also a group.
+[424.00s --> 426.00s] Editing is a group.
+[426.00s --> 432.00s] Home tab, basically, where you find an area where you find mostly the formatting tools,
+[432.00s --> 438.00s] or the formatting commands that you may likely use to format your text.
+[438.00s --> 448.00s] Now, the area that is labeled five is the text-rather text-insertion point.
+[448.00s --> 453.00s] This there is where any time you are using your keyboard type,
+[453.00s --> 457.00s] your document or what you are typing is going to be appearing there.
+[457.00s --> 458.00s] That is interactive.
+[458.00s --> 460.00s] It's also called the cursor.
+[460.00s --> 464.00s] As you are typing, where your insertion point is,
+[464.00s --> 468.00s] that is where your text is going to be appearing from.
+[468.00s --> 470.00s] So by default, it's appearing from the left.
+[470.00s --> 475.00s] That is aligned to start from the left.
+[475.00s --> 481.00s] Now, the area level six is called the working area or the document area.
+[481.00s --> 485.00s] This is where, as you can see, it looks like a page.
+[485.00s --> 487.00s] This is where you type your work.
+[487.00s --> 488.00s] This is where you do your work.
+[488.00s --> 491.00s] Everything that you need to do with Microsoft Word,
+[491.00s --> 494.00s] or anything you need to type, all your text, your objects,
+[494.00s --> 499.00s] you insert them inside the document area.
+[499.00s --> 504.00s] Now, the area that is labeled seven is called the status bar.
+[504.00s --> 509.00s] Here, the status bar helps you to know the status of the document you are working on.
+[509.00s --> 512.00s] For example, from the screen, you can see we are having,
+[512.00s --> 514.00s] we are in page one of one.
+[514.00s --> 517.00s] That is to say, we are only having one page.
+[517.00s --> 520.00s] In a situation where you have more than a page,
+[520.00s --> 523.00s] you notice that you have page one or page two,
+[523.00s --> 528.00s] the current page of the total number of pages that you are having.
+[528.00s --> 532.00s] And also the total number of words that you type.
+[532.00s --> 538.00s] This is the area where it's going to display such for you.
+[538.00s --> 543.00s] So in a situation where you are working and you want to know the volume of your text,
+[543.00s --> 546.00s] or the number of words that you type,
+[546.00s --> 549.00s] you can be able to see through the status bar.
+[549.00s --> 555.00s] And at the same time, you will know the total number of pages you are working with.
+[555.00s --> 562.00s] The area that is labeled eight is called the document view.
+[562.00s --> 565.00s] Here, there are different views that we have here.
+[565.00s --> 568.00s] It depends on which view you may want to use.
+[568.00s --> 572.00s] So that area is actually called the document view.
+[572.00s --> 578.00s] Now, the area that is labeled nine is called the scrubber old navigation bar.
+[578.00s --> 583.00s] With the scrubber, you navigate through your pages, the pages of your work.
+[583.00s --> 586.00s] As you can see, we don't have plenty pages from what we have on the screen.
+[586.00s --> 589.00s] But in a situation where you have more than a page,
+[589.00s --> 595.00s] it is the scrubber that you make use of to navigate through or you scroll down to the page.
+[595.00s --> 601.00s] And it goes either up or down or left or right.
+[601.00s --> 606.00s] Now, that is to say we have the vertical scrubber and the horizontal scrubber.
+[606.00s --> 609.00s] But what we are having here, because we only have one page,
+[609.00s --> 616.00s] it is the vertical scrubber that is visible here.
+[616.00s --> 620.00s] And finally here, we have the area that is labeled 10.
+[620.00s --> 624.00s] This is called window control buttons.
+[624.00s --> 629.00s] From the window control buttons, you notice that we have three buttons there.
+[629.00s --> 632.00s] The first one here is called the minimized button.
+[632.00s --> 636.00s] The minimized button helps you whenever you are working,
+[636.00s --> 638.00s] and you need to work with another window.
+[638.00s --> 645.00s] You click on the minimized button to shrink down your document to your tax bar.
+[645.00s --> 650.00s] This is where it appears on your tax bar so that you can be able to work with other applications.
+[650.00s --> 655.00s] That is what we use the minimized button for.
+[655.00s --> 661.00s] And the one that follows it is called the restore button or the maximized button.
+[661.00s --> 670.00s] You use the maximized button for example, when you have your windows that is not fully on your screen,
+[670.00s --> 675.00s] you click it to maximize it and you also use that to restore it back.
+[675.00s --> 680.00s] And the last button we have there is the close or exit.
+[680.00s --> 686.00s] The close button you use it at the end or anytime you want to or you are done with your work,
+[686.00s --> 695.00s] you use that close button to close your program or you close your application.
+[695.00s --> 702.00s] Now like I said, the title bar appears at the top of an application.
+[702.00s --> 708.00s] It shows you the name of the document and the application currently being used.
+[708.00s --> 717.00s] The document name, the name of the application appearing in the middle of the title bar.
+[717.00s --> 724.00s] We also have the quick access tool bar which I also showed us from the screen earlier on.
+[724.00s --> 735.00s] In the user interface to Microsoft Word, the quick access tool bar shows up at the upper left corner of the title bar.
+[735.00s --> 744.00s] By default, it contains a set of three commands such as save, undo and redo.
+[744.00s --> 750.00s] Sometimes you see new as a default command.
+[750.00s --> 755.00s] You can add more commands to it or can expect it.
+[755.00s --> 762.00s] That is you can remove some commands.
+[763.00s --> 770.00s] Now the ribbon bar in the introduction and the user interface of Microsoft Word,
+[770.00s --> 776.00s] the ribbon bar is all about the collection of groups like I showed us earlier on,
+[776.00s --> 783.00s] tools and functions in the Microsoft Office of applications that you can see on that each tab.
+[783.00s --> 789.00s] Now like I displayed earlier, I said we have different groups like from the home tabs,
+[789.00s --> 793.00s] the click board, we have the phones, the paragraph group and the rest of them.
+[793.00s --> 798.00s] So all those ones are group and the commands that follows each of these groups.
+[798.00s --> 804.00s] We have here, we see the commands are the heart of the user interface to Microsoft Word.
+[804.00s --> 809.00s] Each command is a part of a group.
+[809.00s --> 818.00s] Each work is accessible by using the commands or other shortcuts keys.
+[818.00s --> 830.00s] Examples of commands are code, copy, paste, format, painter, bone, Italy and so on.
+[830.00s --> 835.00s] And the command is the part of a group.
+[835.00s --> 842.00s] Each work in the work is accessible by using the commands or other shortcuts keys.
+[842.00s --> 851.00s] For math, painter, bone, Italy and so on and so forth.
+[851.00s --> 858.00s] Again, we see the control button just as it is here on our screen.
+[858.00s --> 866.00s] The control buttons, ribbons, display options, minimize, rest all, maximize,
+[866.00s --> 874.00s] and close buttons are additional and additionally call control buttons.
+[874.00s --> 888.00s] Control buttons, ribbons, display options, minimize, rest all, maximize, and close buttons are additionally call, control buttons just as we have it on the screen.
+[888.00s --> 897.00s] It shows off in the upper right corner of the Microsoft Office of Applications Word.
+[897.00s --> 906.00s] Control buttons enable you to control the ribbon and application files in the user interface of Microsoft Word.
+[906.00s --> 909.00s] We have it on the screen.
+[909.00s --> 934.00s] And I also talk about the status bar where you can see the list of commands, word features, such as page information, word count, check-proof errors, language selection, page view option, and zoom slider from the beginning or to the end on the bottom bar.
+[934.00s --> 941.00s] The status bar appears at the bottom of an application. This are discussed below.
+[941.00s --> 945.00s] You also have the insertion point or the text insertion point.
+[945.00s --> 950.00s] Insertion is a blink vertical line, often called a cursor.
+[950.00s --> 957.00s] You can enter or paste the data only at the cursor position in the document.
+[957.00s --> 961.00s] Controlling the cursor is depending on the mouse pointer.
+[961.00s --> 978.00s] Arrow keys, enter, home and end keys, page up and page down keys, backspace, delete and space keys, ETC.
+[979.00s --> 987.00s] Lastly, we are going to talk about the document area, which I also call the work working area.
+[987.00s --> 994.00s] In the user interface, the Microsoft Word, the user interface to Microsoft Word.
+[994.00s --> 997.00s] We are going to talk about the document area.
+[997.00s --> 1011.00s] In the user interface to Microsoft Word, the white space area in which you can type, edit and store the data is called the document area as we shown in the screen earlier.
+[1011.00s --> 1026.00s] Now, we were able to learn about what Microsoft Office Word is all about, which we said Microsoft Word is a word processor that is used to create professional documents.
+[1027.00s --> 1032.00s] Such as memos, such as reports, such as letters, ETC.
+[1032.00s --> 1042.00s] We said with Microsoft Word, we could be able to create, edit, format and even store our document.
+[1043.00s --> 1048.00s] We needed to retrieve such documents with Microsoft Word, we could be able to do that.
+[1048.00s --> 1058.00s] Also, we talked about how we can be able to launch our Microsoft Office application, at least Microsoft Word application.
+[1058.00s --> 1065.00s] Now, first of all, we said if we have Microsoft Word on our desktop background, that is the icon on our desktop background.
+[1065.00s --> 1070.00s] All we need to do is to just double click on it and it will launch our Microsoft Word.
+[1070.00s --> 1078.00s] You also said if we want to launch our Microsoft Word, another way is by clicking on our start button.
+[1078.00s --> 1086.00s] After which you go to all programs, from all programs you navigate through to where Microsoft Office folder is.
+[1086.00s --> 1096.00s] Expand it and you can locate Microsoft Word or you see what there you click on it and your Microsoft Word application will be launched.
+[1096.00s --> 1099.00s] Another method we see is by using the search bar.
+[1099.00s --> 1105.00s] Once you type what is going to by default, bring the program word, giving it the hierarchy.
+[1105.00s --> 1110.00s] Then by there you can now click on it and it will start.
+[1110.00s --> 1123.00s] Also, we try to understand the interface, we get familiar with the interface, where we talk about the type football, we talk about the window control, we talk about the quick access to the top.
+[1123.00s --> 1126.00s] We also talk about the ribbon.
+[1126.00s --> 1131.00s] We also have the working area, which we also said is called document area.
+[1131.00s --> 1139.00s] We also have the text instruction point, which we say is the vertical line that is in that is blinking, which is also called Kusso.
+[1139.00s --> 1143.00s] We also have the status bar where we display the status of our document.
+[1143.00s --> 1152.00s] That is you can see from there the total number of pages you are working on and also you could be able to see the total number of words you have.
+[1152.00s --> 1164.00s] We also saw the scroll bar, which we see is also called navigation bar and there is the horizontal scroll bar, there is also the vertical scroll bar.
+[1164.00s --> 1173.00s] We also said we could be able to use our Microsoft word to do so many things.
+[1173.00s --> 1177.00s] Now the evaluation.
+[1177.00s --> 1184.00s] One, mention two or more things that Microsoft word is used for.
+[1185.00s --> 1192.00s] Number two, explain briefly the status required to launch Microsoft word.
+[1192.00s --> 1202.00s] And number three, also explain briefly what a title bar, quick access to the bar and ribbons are.
+[1202.00s --> 1205.00s] With this, we've come to the end of our lesson.
+[1205.00s --> 1209.00s] My name is Mr. Kavic. Till next time.
